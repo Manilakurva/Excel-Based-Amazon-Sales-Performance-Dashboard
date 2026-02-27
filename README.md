@@ -5,9 +5,13 @@ I'm pleased to share that I have successfully designed and developed a comprehen
 
 ### Key Project Components:
 • Data Understanding & Requirement Breakdown
+
 • Data Cleaning & Pre- Processing
+
 • Structuring Data for Analysis
+
 • Pivot Table-Driven Insights
+
 • Dynamic & Interactive Dashboard Development
 
 This Project enabled me to translate raw transactional data into clear, actionable insights--strengthening my analytical mindset and dashboard-building skills.
